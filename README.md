@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flink-ddd)](https://github.com/Flink-ddd/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flink-ddd&show_icons=true)
 
 - 👋 Hi, I’m @Flink-ddd, Keen on studying various technologies and applying them in actual business.
   I have Java development experience and practical use of some big data technology stacks, and I am currently learning artificial intelligence technology.
