@@ -2,44 +2,63 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flink-ddd&&layout=compact&count_private=true&cache_seconds=60)](https://github.com/Flink-ddd&)
 
 
-- 👋 Hi, I’m @Flink-ddd, Keen on studying various technologies and applying them in actual business.
-  I have Java development experience and practical use of some big data technology stacks, and I am currently learning artificial intelligence technology.
-  
-  Java field:
-    1: Have a deep understanding and research on microservice architecture and DevOps architecture
-    2: Have practical project experience based on in-depth research and secondary development of technology stacks to help companies build technology systems
-  and improve business development efficiency.
-  
-    Example 1: Based on Prometheus+grafana technology, secondary development is carried out. Develop a full-link monitoring alarm that meets the company's business monitoring project
-  and the company's business. The alarm methods include SMS, email, and third-party office software, including server level, project interface level, business process level, etc.
-  
-    Example 2: Based on springboot, webscoket, zookeeper, kafka, MinIO, mysql and other technologies, develop an instant messaging system that supports millions of users online at the same time,
-  supporting single and group chats, voice calls, video calls, etc.
-  
-    Example 3: Based on springboot, springcloud, elasticsearch, flink-cdc, MySQL, MongoDB and other technologies, develop an enterprise-level search center that supports efficient search of billions of data.
-  
-    Example 4: Develop a knowledge graph center based on Neo4j to meet the changing business coverage.
-  
-    Example 5: Based on DDD domain-driven design, develop a multifunctional payment center within the company group to meet the payment business of all business lines of the entire company, and have experienced millions of payment data per day.
-  
-    Example 6: Based on flink-cdc, develop a data synchronization center to support the capture of real-time change data of heterogeneous data sources and write it to the target table and message queue.
+👋  Hi, I’m @Flink-ddd, a passionate senior  engineer with a solid foundation in Java development and microservices architecture, practical Python programming experience, and a growing focus on AI infrastructure and large language model (LLM) applications.
 
-    The data synchronization center supports visual configuration monitoring data sources, custom topics, custom synchronization strategies, etc., to help business lines handle the synchronization needs of massive data, etc.
-  There are many other projects that are not listed one by one, involving e-commerce, medical and other fields.
+1：Java & System Architecture
+Microservices & DevOps Expert: In-depth understanding of system design, deployment pipelines, and scalable architecture.
 
-  Big data field:
-    1: There is a practical application of some core technology stacks, including the understanding of data lake and data grid construction.
-    2: Understanding and application of OLAP
-  
-    Example 1: Build an enterprise-level flink cluster, extend the flink computing center, support projects such as statistics center, data synchronization center, computing engine, and make real-time data lake based on flink.
+Secondary Development & System Integration: Deep customization of mainstream technology stacks to improve business agility.
 
-    Example 2: Do enterprise-level OLAP based on clickhouse
+Key Projects:
+Monitoring & Alerting Platform:
+Built a full-link business monitoring system via secondary development of Prometheus + Grafana, supporting multi-channel alerts (SMS, Email, IM platforms), covering server, API, and business process levels.
 
-    Example 3: Do enterprise-level log collection platform based on flume, etc.
+High-Concurrency Messaging System:
+Using Spring Boot, WebSocket, Kafka, Zookeeper, MinIO, built an IM system supporting millions of users with features like group chat, voice/video calls.
+
+Enterprise Search Platform:
+Leveraged SpringBoot, Elasticsearch, Flink-CDC, MongoDB, to build a high-performance search engine for billions of records.
+
+Knowledge Graph Center:
+Designed a Neo4j-based system to support evolving business relationships and semantic query logic.
+
+Multi-functional Payment Platform:
+Developed a group-level payment center using DDD (Domain-Driven Design), handling millions of transactions per day.
+
+Real-Time Data Sync Platform:
+Built a visualized synchronization platform using Flink-CDC, supporting heterogeneous source sync to MQ/DB with configurable strategies.
 
 
-  
-- 🌱 I’m currently learning LLM and Deep Learning etc
-  
+2：Big Data Expertise
+Experience with real-time stream processing, data lake, and OLAP solutions.
 
-- 📫 How to reach me: vensenmu@gmail.com        what's app: 8130 2719
+Projects:
+Enterprise-level Flink Cluster:
+Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
+
+OLAP Solutions with ClickHouse:
+Delivered a responsive analytics experience with massive datasets using ClickHouse.
+
+Log Aggregation Platform:
+Implemented enterprise-scale log collection via Flume, integrated with downstream analytics.
+
+
+3：AI & LLM Projects
+Currently exploring and implementing AI technologies with hands-on focus on:
+
+Model Fine-tuning: Customizing open-source LLMs (e.g., Mistral, DeepSeek, Qwen) via LoRA techniques.
+
+RAG (Retrieval-Augmented Generation): Building intelligent Q&A and search systems by integrating vector databases (e.g., FAISS, Milvus) with LLMs.
+
+LLM Inference Acceleration: Using vLLM, FlashAttention, and RunPod for high-performance deployment.
+
+Recent Work Includes:
+Training a domain-specific chatbot using Mistral + LoRA + Huggingface datasets.
+Building end-to-end pipelines for RAG-based medical Q&A systems.
+Deploying API endpoints for real-time LLM interaction and content generation.
+
+Keep Always Learning
+
+📫 Let’s Connect:
+📧 Email: vensenmu@gmail.com
+📱 WhatsApp: +65 8130 2719
