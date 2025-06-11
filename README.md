@@ -42,12 +42,12 @@ Here are some projects that highlight my capabilities across both domains.
 #### AI Infrastructure & LLM Applications
 
 1.  **End-to-End RAG System for Domain-Specific Q&A**
-    - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`, `Milvus`, and `LangChain` for a specialized knowledge domain.
+    - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`, `ElasticSearch` for a specialized knowledge domain.
     - Optimized the system for real-time interaction through efficient data processing and a high-throughput inference server deployment.
 
 2.  **LLM Inference Acceleration & Fine-tuning**
     - Customized open-source LLMs (`Mistral`, `Qwen`) using **LoRA** fine-tuning techniques on specific datasets.
-    - Accelerated model inference significantly using **vLLM** and **FlashAttention**, deploying them as scalable API endpoints on cloud platforms like **RunPod**.
+    - Accelerated model inference significantly using **vLLM** and **FlashAttention**, deploying them as scalable API endpoints on cloud platforms like **RunPod** and **GPUServer**.
 
 #### Java Microservices & System Architecture
 
@@ -62,7 +62,10 @@ Here are some projects that highlight my capabilities across both domains.
 5.  **Enterprise Search & Real-Time Data Platform**
     - Designed a high-performance search engine using `Elasticsearch` and `Flink-CDC` capable of indexing and searching billions of records with sub-second latency.
     - Built the underlying real-time data synchronization pipeline, providing a unified data backbone for multiple business units.
-
+  
+6.  **Enterprise Flink computing Platform**
+    - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
+   
 ---
 
 ### ✍️ Writing & Sharing
