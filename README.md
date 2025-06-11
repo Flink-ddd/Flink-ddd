@@ -22,8 +22,6 @@ Real-Time Data Sync Platform: Built a visualized synchronization platform using 
 
 Projects: Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
 
-OLAP Solutions with ClickHouse: Delivered a responsive analytics experience with massive datasets using ClickHouse.
-
 Log Aggregation Platform: Implemented enterprise-scale log collection via Flume, integrated with downstream analytics.
 
 3：AI & LLM Projects Currently exploring and implementing AI technologies with hands-on focus on:
