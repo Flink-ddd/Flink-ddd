@@ -46,18 +46,18 @@ Here are some projects that highlight my capabilities across both domains.
 #### AI Infrastructure & LLM Applications
 
 1.  **End-to-End RAG System for Domain-Specific Q&A**
-    - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`, `ElasticSearch` for a specialized knowledge domain.
+    - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`,`chatGPT-o4-mini` `ElasticSearch` for a specialized knowledge domain.
     - Optimized the system for real-time interaction through efficient data processing and a high-throughput inference server deployment.
 
 2.  **LLM Inference Acceleration & Fine-tuning**
-    - Customized open-source LLMs (`Mistral`, `Qwen`) using **LoRA** fine-tuning techniques on specific datasets.
+    - Customized open-source LLMs (`Mistral`, `Qwen`, `Llama`) using **LoRA** fine-tuning techniques on specific datasets.
     - Accelerated model inference significantly using **vLLM** and **FlashAttention**, deploying them as scalable API endpoints on cloud platforms like **RunPod** and **GPUServer**.
 
 #### Java Microservices & System Architecture
 
 3.  **Group-Level Multi-functional Payment Platform**
     - Architected and developed a highly available, enterprise-grade payment center using **Domain-Driven Design (DDD)** and a robust microservices architecture.
-    - The system reliably handles millions of transactions daily, ensuring data consistency and security across various payment channels.
+    - The system reliably handles millions of transactions in a specific period time and smoothly process tens of thousands of transactions or more every day, ensuring data consistency and security across various payment channels.
 
 4.  **High-Concurrency Instant Messaging (IM) System**
     - Built a distributed IM system from the ground up to support millions of concurrent users.
