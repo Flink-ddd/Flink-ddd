@@ -46,7 +46,7 @@ Here are some projects that highlight my capabilities across both domains.
 #### AI Infrastructure & LLM Applications
 
 1.  **End-to-End RAG System for Domain-Specific Q&A**
-    - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`,`chatGPT-o4-mini` `ElasticSearch` for a specialized knowledge domain.
+    - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`,`chatGPT-o4-mini`, `ElasticSearch` for a specialized knowledge domain.
     - Optimized the system for real-time interaction through efficient data processing and a high-throughput inference server deployment.
 
 2.  **LLM Inference Acceleration & Fine-tuning**
