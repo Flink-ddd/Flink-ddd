@@ -43,7 +43,7 @@ My skills cover the full spectrum from foundational backend architecture to mode
 
 Here are some projects that highlight my capabilities across both domains.
 
-####AI Infrastructure & LLM Applications
+#### AI Infrastructure & LLM Applications
 
 1.  **RAG System for Domain-Specific Q&A**
     - Engineered a Retrieval-Augmented Generation (RAG) pipeline using `Mistral-7B`,`chatGPT-o4-mini`, `ElasticSearch` for a specialized knowledge domain.
@@ -53,7 +53,7 @@ Here are some projects that highlight my capabilities across both domains.
     - Customized open-source LLMs (`Mistral`, `Qwen`, `Llama`) using **LoRA** fine-tuning techniques on specific datasets.
     - Accelerated model inference significantly using **vLLM** and **FlashAttention**, deploying them as scalable API endpoints on cloud platforms like **RunPod** and **GPUServer**.
 
-####Java Microservices & System Architecture
+#### Java Microservices & System Architecture
 
 3.  **Group-Level Multi-functional Payment Platform**
     - Architected and developed a highly available, enterprise-grade payment center using **Domain-Driven Design (DDD)** and a robust microservices architecture.
