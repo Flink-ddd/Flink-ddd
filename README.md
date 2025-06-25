@@ -70,7 +70,7 @@ Here are some projects that highlight my capabilities across both domains.
 6.  **Enterprise Flink computing Platform**
     - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
 
-etc.
+etc......
 
 ---
 
