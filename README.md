@@ -32,7 +32,7 @@ My skills cover the full spectrum from foundational backend architecture to mode
 | Java, Spring Boot, Spring Cloud | Python, PyTorch, Transformers, deepspeed, vLLM |
 | Microservices, SaaS, Domain-Driven Design (DDD) | LLM Fine-tuning (LoRA), RAG |
 | Docker, Kubernetes, DevOps, gRPC, OpenFeign | Vector DB (Milvus, FAISS, Elasticsearch) |
-| Kafka, Zookeeper,Alibaba nacos, WebSocket | Apache Flink, Flink-CDC, Prometheus |
+| Kafka, Zookeeper, Alibaba nacos, WebSocket | Apache Flink, Flink-CDC, Prometheus |
 | MySQL, PostgreSQL, ES, Redis, MinIO | ELK Stack, Grafana, Flume |
 | System Design & Scalable Architecture | MLOps & Inference Optimization |
 
