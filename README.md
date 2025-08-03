@@ -29,7 +29,7 @@ My skills cover the full spectrum from foundational backend architecture to mode
 
 | Core Java & Distributed Systems | AI/ML & Big Data |
 | :--- | :--- |
-| Java, Spring Boot, Spring Cloud | Python, PyTorch, Transformers, deepspeed, vLLM |
+| Java, Spring Boot, Spring Cloud, Mybatis-Plus | Python, PyTorch, Transformers, deepspeed, vLLM |
 | Microservices, SaaS, Domain-Driven Design (DDD) | LLM Fine-tuning (LoRA), RAG |
 | Docker, Kubernetes, DevOps, gRPC, OpenFeign | Vector DB (Milvus, FAISS, ElasticSearch) |
 | Kafka, Zookeeper, Alibaba nacos, WebSocket | Apache Flink, Flink-CDC, Prometheus+Grafana |
