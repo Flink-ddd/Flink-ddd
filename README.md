@@ -59,19 +59,19 @@ Here are some projects that highlight my capabilities across both domains.
 
 #### Java Microservices & System Architecture
 
-3.  **Group-Level Multi-functional Payment Platform**
+1.  **Group-Level Multi-functional Payment Platform**
     - Architected and developed a highly available, enterprise-grade payment center using **Domain-Driven Design (DDD)** and a robust microservices architecture.
     - The system reliably handles millions of transactions in a specific period time and smoothly process tens of thousands of transactions or more every day, ensuring data consistency and security across various payment channels.
 
-4.  **High-Concurrency Instant Messaging (IM) System**
+2.  **High-Concurrency Instant Messaging (IM) System**
     - Built a distributed IM system from the ground up to support millions of concurrent users.
     - Leveraged a powerful tech stack including `Spring Boot`, `WebSocket`, `Kafka` for message queuing, and `Zookeeper` for service coordination, achieving high throughput and low latency.
 
-5.  **Enterprise Search & Real-Time Data Platform**
+3.  **Enterprise Search & Real-Time Data Platform**
     - Designed a high-performance search engine using `Elasticsearch` and `Flink-CDC` capable of indexing and searching billions of records with sub-second latency.
     - Built the underlying real-time data synchronization pipeline, providing a unified data backbone for multiple business units.
   
-6.  **Enterprise Flink computing Platform**
+4.  **Enterprise Flink computing Platform**
     - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
 
 etc......
