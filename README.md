@@ -17,7 +17,7 @@
 
 I am a **Senior Software Engineer** with over **7 years of experience** in designing and building large-scale, high-concurrency distributed systems using Java and microservices.
 
-Currently, I am expanding my expertise into **AI/ML Infrastructure and Large Language Model (LLM) Applications**, applying my deep engineering background to build robust and efficient systems that power intelligent solutions. I am passionate about creating value at the intersection of solid software architecture and cutting-edge AI.
+Currently, I am expanding my expertise into **AI Infrastructure and Large Language Model (LLM) Applications**, applying my deep engineering background to build robust and efficient systems that power intelligent solutions. I am passionate about creating value at the intersection of solid software architecture and cutting-edge AI.
 
 Based in **Singapore** right now, I am seeking senior roles in either **AI Infrastructure**.
 
