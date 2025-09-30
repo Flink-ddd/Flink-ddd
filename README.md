@@ -48,7 +48,7 @@ Here are some projects that highlight my capabilities across both domains.
     - Customized open-source LLMs (`Mistral`, `Qwen`, `Llama`) using **LoRA** fine-tuning techniques on specific datasets.
     - Accelerated model inference significantly using **vLLM** and **FlashAttention**, deploying them as scalable API endpoints on cloud platforms like **GCP** and **Azure**.
 
-3.  **Transformers & DeepSpeed & vLLM & Triton Contribution (Ongoing)**
+3.  **vLLM & Transformers & DeepSpeed & Triton & Ray Contribution (Ongoing)**
 
 
 
