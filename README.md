@@ -28,7 +28,7 @@ My skills cover the full spectrum from foundational backend architecture to mode
 | Microservices, SaaS, Domain-Driven Design (DDD) | LLM Fine-tuning (LoRA), RAG |
 | Docker, Kubernetes, DevOps, gRPC, OpenFeign | Vector DB (Milvus, FAISS, ElasticSearch) |
 | Kafka, Zookeeper, Alibaba nacos, WebSocket, Netty | Delta Lake, Apache Flink, Apache Hudi, Apache Iceberg, Flink-CDC, Prometheus+Grafana |
-| MySQL, MongoDB, Neo4j, PostgreSQL, ElasticSearch, Redis, MinIO, SolrCloud, Hbase | ELK Stack, Flume, Clickhouse, Drios |
+| MySQL, MongoDB, Neo4j, PostgreSQL, ElasticSearch, Redis, MinIO, SolrCloud, Hbase | ELK, Flume, Clickhouse, Drios |
 | System Design & Scalable Architecture | MLOps & Inference Optimization |
 
 
