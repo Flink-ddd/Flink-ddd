@@ -55,7 +55,7 @@ Here are some projects that highlight my capabilities across both domains.
 #### Java Microservices & System Architecture
 
 1.  **Group-Level Multi-functional Payment Platform**
-    - Architected and developed a highly available, enterprise-grade payment center using **Domain-Driven Design (DDD)** and a robust microservices architecture.
+    - Architected and developed a highly available,  enterprise-grade payment center using **Domain-Driven Design (DDD)** and a robust microservices architecture.
     - The system reliably handles millions of transactions in a specific period time and smoothly process tens of thousands of transactions or more every day, ensuring data consistency and security across various payment channels.
 
 2.  **High-Concurrency Instant Messaging (IM) System**
