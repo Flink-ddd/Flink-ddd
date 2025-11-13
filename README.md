@@ -58,7 +58,7 @@ Here are some projects that highlight my capabilities across both domains.
     - Architected and developed a highly available,  enterprise-grade payment center using **Domain-Driven Design (DDD)** and a robust microservices architecture.
     - The system reliably handles millions of transactions in a specific period time and smoothly process tens of thousands of transactions or more every day, ensuring data consistency and security across various payment channels.
 
-2.  **High-Concurrency Instant Messaging (IM) System**
+2.  **High-Concurrency Instant Messaging System**
     - Built a distributed IM system from the ground up to support millions of concurrent users.
     - Leveraged a powerful tech stack including `Spring Boot`, `WebSocket`, `Kafka` for message queuing, and `Zookeeper` for service coordination, achieving high throughput and low latency.
 
