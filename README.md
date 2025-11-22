@@ -14,7 +14,7 @@ Previously, I am a **Java Senior Software Engineer** with over **7 years of expe
 
 Currently, I'm expanding my expertise into **AI Infrastructure and LLM Applications**, applying my deep engineering background to build robust and efficient systems that power intelligent solutions. I am passionate about creating value at the intersection of solid software architecture and cutting-edge AI.
 
-Based in **Singapore** right now, Previously worked in **Beijing, China**.
+Based in **Singapore** right now
 
 ---
 
