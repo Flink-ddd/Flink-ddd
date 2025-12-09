@@ -75,4 +75,4 @@ etc........
 
 ### ✍️ Writing & Sharing
 
-I believe in continuous learning and sharing knowledge. I write about my journey in software architecture, distributed systems, and AI on my [Medium blog](https://medium.com/@vensenmu).
+I believe in continuous learning and sharing knowledge. I write about my journey in software architecture, distributed systems, and AI infrastructure on my [Medium blog](https://medium.com/@vensenmu).
