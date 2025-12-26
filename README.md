@@ -27,7 +27,7 @@ My skills cover the full spectrum from foundational backend architecture to mode
 | Java, Spring Boot, Spring Cloud, mybatis, Mybatis-Plus, mybatis | Python, PyTorch, vLLM, DeepSpeed, Triton, aiter, ROCm, ray, Transformers|
 | Microservices, SaaS, PaaS, DDD | LLM Fine-tuning (LoRA), RAG |
 | Docker, Kubernetes, DevOps, gRPC, OpenFeign, SkyWalking | Vector DB (FAISS, ElasticSearch) |
-| rocketMQ, pulsar, Kafka, AWS/sqs, Zookeeper, Alibaba nacos/dubbo/Canal/other technology stack, WebSocket, Netty | Delta Lake, Apache Flink, Apache Hudi, Apache Iceberg, kettle, Flink-CDC, Debezium, Prometheus+Grafana+Alertmanager|
+| rocketMQ, pulsar, Kafka, AWS/sqs, Zookeeper, Alibaba nacos/dubbo/Canal/other, WebSocket, Netty | Delta Lake, Apache Flink, Apache Hudi, Apache Iceberg, kettle, Flink-CDC, Debezium, Prometheus+Grafana+Alertmanager|
 | MySQL, MongoDB, Neo4j, PostgreSQL, ElasticSearch, Redis, MinIO, OSS, SolrCloud, Hbase | ELK, Flume, Clickhouse, Drios |
 | System Design & Scalable Architecture | MLOps & Inference Optimization |
 
