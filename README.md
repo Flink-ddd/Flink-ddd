@@ -69,7 +69,7 @@ Here are some projects that highlight my capabilities across both domains.
 4.  **Enterprise Flink computing Platform**
     - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
 
-5.  **Microservice technology system construction**
+5.  **Microservice technology system Architecture**
    
      - The project comprises over 28 microservices, including those for users, orders, payments, logistics, merchants, products, instant messaging, basic services, search, gateways, SMS messaging, file services, a computing    platform, and a data synchronization center.
      - A "precise and rapid response" approach was proposed for the new project, and the implementation of the project scaffolding was arranged, encompassing both Spring Boot + Spring Cloud microservice projects and DDD (Device-Driven Development) project models.
