@@ -69,7 +69,20 @@ Here are some projects that highlight my capabilities across both domains.
 4.  **Enterprise Flink computing Platform**
     - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
 
-etc........
+5.  **Microservice technology system construction**
+   
+     - The project comprises over 28 microservices, including those for users, orders, payments, logistics, merchants, products, instant messaging, basic services, search, gateways, SMS messaging, file services, a computing    platform, and a data synchronization center.
+     - A "precise and rapid response" approach was proposed for the new project, and the implementation of the project scaffolding was arranged, encompassing both Spring Boot + Spring Cloud microservice projects and DDD (Device-Driven Development) project models.
+     - A binary package format and specification for inter-microservice calls were defined, and the company's private server underlying infrastructure package was encapsulated.
+     - The business processing message middleware technologies selected were Kafka, relational database MySQL, non-relational databases Redis and Elasticsearch, and the service registry Nacos.
+     - Core components such as Prometheus + Grafana, Node.js Exporter, and Alertmanager were introduced to provide visualized, multi-faceted monitoring and alerting of data center and cloud server resources. Anomaly alerts were pushed to DingTalk and related SMS messages.
+     - Flink-CDC was introduced, MySQL binlog was configured, and Flink and related connector packages were added to the data synchronization center. The development team provides relevant code. The CDC (Center for Data Controllers) acquires real-time data changes from monitoring business database tables, performs data processing across different dimensions such as grouping and JOIN, and synchronizes the data to different business data destination sinks or writes it to Kafka.
+     - Order and product data are written to Kafka via the upsert-kafka connector. The core processing mechanism in the search service listens to relevant Kafka topics and consumes the data, writing it to Elasticsearch. The search service provides API interfaces for business services to call and query.
+     - Chat and payment transaction data are processed using the SQL API and DataStream API syntax in the CDC, synchronized to ClickHouse, and used for analysis and logging of user behavior/actions.
+     - Real-time data visualization dashboards are provided and displayed through the computing platform service, based on Flink stream computing, and involve statistics such as order amount, sales volume, and merchant brand ranking.
+
+
+**etc........**
 
 ---
 
