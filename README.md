@@ -72,7 +72,7 @@ Here are some projects that highlight my capabilities across both domains.
 5.  **Microservice technology system Architecture**
    
      - The project comprises over 28 microservices, including those for users, orders, payments, logistics, merchants, products, instant messaging, basic services, search, gateways, SMS messaging, file services, a computing    platform, and a data synchronization center etc.
-     - A "precise and rapid response" approach was proposed for the new project, and the implementation of the project scaffolding was arranged, encompassing both **Spring Boot + Spring Cloud microservice projects** and **DDD (Domain-Driven Design)** project models.
+     - A "precise and rapid response" approach was proposed for the new project, and the implementation of the project scaffolding was arranged, encompassing both **Spring Boot + Spring Cloud microservice** projects and **DDD (Domain-Driven Design)** project models.
      - A binary package format and specification for inter-microservice calls were defined, and the company's private server underlying infrastructure package was encapsulated.
      - The business processing message middleware technologies selected were Kafka, relational database MySQL, non-relational databases Redis and Elasticsearch, and the service registry Nacos.
      - Core components such as **Prometheus + Grafana, Node Exporter, and Alertmanager** were introduced to provide visualized, multi-faceted monitoring and alerting of data center and cloud server resources. Anomaly alerts were pushed to DingTalk and related SMS messages.
