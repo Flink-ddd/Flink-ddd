@@ -63,7 +63,7 @@ Here are some projects that highlight my capabilities across both domains.
     - Leveraged a powerful tech stack including `Spring Boot`, `WebSocket`, `Kafka` for message queuing, and `Zookeeper` for service coordination, achieving high throughput and low latency.
 
 3.  **Enterprise Search & Real-Time Data Platform**
-    - Designed a high-performance search engine using `Elasticsearch` and `Flink-CDC` capable of indexing and searching billions of records with sub-second latency.
+    - Designed a high-performance search engine using `Elasticsearch` and `Flink-CDC` capable of indexing and searching billions of records with **sub-second latency**.
     - Built the underlying real-time data synchronization pipeline, providing a unified data backbone for multiple business units.
   
 4.  **Enterprise Flink computing Platform**
