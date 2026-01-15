@@ -67,7 +67,7 @@ Here are some projects that highlight my capabilities across both domains.
     - Built the underlying real-time data synchronization pipeline, providing a unified data backbone for multiple business units.
   
 4.  **Enterprise Flink computing Platform**
-    - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and ETL pipelines.
+    - Enterprise-level Flink Cluster: Built a unified Flink-based computing center for real-time data lake, stats center, and **ETL pipelines**.
 
 5.  **Microservice technology system Architecture**
    
