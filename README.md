@@ -9,21 +9,21 @@
 ### **Backend & Distributed System**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,py,cpp,mysql,postgres,redis,elasticsearch,kafka,flink&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,redis,elasticsearch,kafka,flink&perline=11" />
   </a>
 </p>
 
 ### **Cloud Native & Platform Engineering**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,gcp,prometheus,grafana,jenkins,git,ansible,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,prometheus,grafana,jenkins,git,vscode&perline=11" />
   </a>
 </p>
 
 ### **AI Infrastructure & Machine Learning**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,ai,opencv,sklearn&perline=11" />
+    <img src="https://skillicons.dev/icons?i=pytorch,ai,opencv,sklearn&perline=11" />
   </a>
 </p>
 
