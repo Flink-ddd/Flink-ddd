@@ -6,7 +6,7 @@
 
 ### 🛠 Technology Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,go,python,mysql,redis,elasticsearch,kafka,flink,docker,kubernetes,pytorch" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,redis,elasticsearch,kafka,flink,docker,kubernetes,pytorch,vLLM,deepspeed" />
 </p>
 
 ---
@@ -18,9 +18,5 @@ For a deep dive into my technical architecture, open-source contributions (vLLM,
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flink-ddd&show_icons=true&theme=transparent" alt="Vensen's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flink-ddd&layout=compact&theme=transparent" alt="Top Langs" height="150" />
-</p>
-
-![Github Snake](https://github.com/Flink-ddd/Flink-ddd/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+![Github Snake](https://raw.githubusercontent.com/Flink-ddd/Flink-ddd/output/github-contribution-grid-snake.svg)
