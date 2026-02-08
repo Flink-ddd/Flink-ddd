@@ -25,14 +25,14 @@ Currently Focusing on LLM inference acceleration (vLLM).**
 ### **AI Infrastructure & Machine Learning**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,ai,opencv,sklearn&perline=11" />
+    <img src="https://skillicons.dev/icons?i=pytorch,vLLM,ai,opencv,sklearn&perline=11" />
   </a>
 </p>
 
 ---
 
 ## 🔍 Explore More
-**For a deep dive into my technical architecture, open-source contributions (vLLM, PyTorch, deepspeed, transformers), and full career journey, please visit:**
+**For a deep dive into my technical architecture, open-source contributions (vLLM, PyTorch, deepspeed, transformers) and full career journey, please visit:**
 
 ### 👉 **[flink-ddd.github.io](https://flink-ddd.github.io)**
 
