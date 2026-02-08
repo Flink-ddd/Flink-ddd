@@ -18,14 +18,14 @@ Currently Focusing on LLM inference acceleration (vLLM).**
 ### **Cloud Native & Platform Engineering**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xshell,Ubuntu,docker,kubernetes,nginx,linux,prometheus,grafana,jenkins,git,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,prometheus,grafana,jenkins,git,vscode&perline=11" />
   </a>
 </p>
 
 ### **AI Infrastructure & Machine Learning**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,vLLM,ai,opencv,sklearn&perline=11" />
+    <img src="https://skillicons.dev/icons?i=pytorch,ai,opencv,sklearn&perline=11" />
   </a>
 </p>
 
