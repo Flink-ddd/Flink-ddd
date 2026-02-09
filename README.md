@@ -32,7 +32,7 @@ Currently Focusing on LLM inference acceleration (vLLM).**
 ---
 
 ## 🔍 Explore More
-**For a deep dive into my technical architecture, open-source contributions (vLLM, PyTorch, deepspeed, transformers) and full career journey, please visit:**
+**For a deep dive into my technical architecture, open-source contributions (vLLM, PyTorch, deepspeed, transformers, ray) and full career journey, please visit:**
 
 ### 👉 **[flink-ddd.github.io](https://flink-ddd.github.io)**
 
