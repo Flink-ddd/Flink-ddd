@@ -11,7 +11,7 @@ Currently Focusing on vLLM and pytorch, deepspeed.**
 ### **Backend & Distributed System**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,redis,elasticsearch,mongodb,kafka,idea,eclipse&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,mysql,postgres,redis,elasticsearch,mongodb,kafka,idea,eclipse&perline=11" />
   </a>
 </p>
 
