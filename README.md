@@ -11,14 +11,14 @@ Currently Focusing on vLLM and pytorch, deepspeed.**
 ### **Backend & Distributed System**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,mysql,postgres,redis,elasticsearch,mongodb,kafka,idea,eclipse,maven&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,mysql,postgres,redis,elasticsearch,mongodb,kafka,idea,eclipse,maven,vscode&perline=11" />
   </a>
 </p>
 
 ### **Cloud Native & Platform Engineering**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,prometheus,grafana,jenkins,git,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,prometheus,grafana,jenkins,git&perline=11" />
   </a>
 </p>
 
