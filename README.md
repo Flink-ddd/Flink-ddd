@@ -1,7 +1,7 @@
 # Hi there, I'm Vensen (Mu Xiaohui)👋
 
 **Senior Java Engineer (7+ yrs) turned AI Infrastructure engineer. 
-Previously, Focusing on high-concurrency microservices, real-time data warehouses & lake. 
+Previously, Focusing on high-concurrency microservices architecture, real-time data warehouses & lake. 
 Currently Focusing on vLLM, vLLM-omni and pytorch, deepspeed, cutlass.**
 
 ---
