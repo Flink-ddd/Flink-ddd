@@ -2,7 +2,7 @@
 
 **Senior Java Engineer (7+ yrs) turned AI Infrastructure engineer. 
 Previously, Focusing on high-concurrency microservices architecture, real-time data warehouses & lake. 
-Currently Focusing on vLLM, vLLM-omni and pytorch, deepspeed, cutlass.**
+Currently Focusing on vLLM, vLLM-omni and cutlass, pytorch, deepspeed.**
 
 ---
 
